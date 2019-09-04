@@ -5,8 +5,12 @@
 I did fast code for JWT authorization, with possibility to log in. Users are storing in users.json.
 For adding new items system is adding automatically userId.
 
-It is not a perfect code, because it is for helping developers in mockups.
+It is not a perfect code (no time), because it is for helping developers in mockups.
 
+For run use only this command:
+```bash
+npm start
+```
 
 ## Table of contents
 
