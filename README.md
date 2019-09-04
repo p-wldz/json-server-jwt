@@ -1,5 +1,12 @@
 # JSON Server + JWT Auth
 
+## Mine modifcation
+
+I did fast code for JWT authorization, with possibility to log in. Users are storing in users.json.
+For adding new items system is adding automatically userId.
+
+It is not a perfect code, because it is for helping developers in mockups.
+
 
 ## Table of contents
 
@@ -67,10 +74,10 @@ Create a `db.json` file with some data
 }
 ```
 
-Start JSON Server
+Start JSON Server (ony one option, do not use CLI)
 
 ```bash
-json-server --watch db.json
+npm start
 ```
 
 Now if you go to [http://localhost:3000/posts/1](http://localhost:3000/posts/1), you'll get
