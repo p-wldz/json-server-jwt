@@ -1,6 +1,6 @@
 # JSON Server + JWT Auth
 
-## Mine modifcation
+## My modifcation
 
 I did fast code for JWT authorization, with possibility to log in. Users are storing in users.json.
 For adding new items system is adding automatically userId.
